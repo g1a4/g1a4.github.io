@@ -1,27 +1,6 @@
-# g1a4.github.io 
-_______
-**About Me**
-- Gerardine Sophia P. Alarcon
-- nickname: **Ia**
-- 15 years old
-- Born on August 4, 2007
-- lives in Pili
-- has a borther
+# One Of Sophia Alarcon's Fav Songs 
 
-`wala man`
+**Anymore** by Somi
 
-[pOrTaL](https://jhsportal.adnu.edu.ph.com)
-
-|Monday |Teusday| Wednsday |Thursday| Friday |
-|-------|--------|---------|---------|--------|
-| | | | | |
-
-```
-I wanna be your lover 
-Don't wanna be your friend 
-Wish we could be forever
-But I know this ain't it
-```
-
-Ang funny mo! :joy:
-
+|---|----|
+|![Somi](https://www.quora.com/What-are-your-thoughts-on-the-Anymore-song-by-Jeon-Somi)|
