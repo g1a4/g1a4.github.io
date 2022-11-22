@@ -84,5 +84,7 @@ Anymore
 |1:10-2:00| ENG| PE| ENG|STUDY PERIOD|MUSIC|
 |2:10-3:00|NONE|NONE|NONE| ENG|STUDY PERIOD|
 
+**sir oks toh sa preview pero dto hindi nagana**
+
 
 
