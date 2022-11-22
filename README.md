@@ -1,5 +1,10 @@
-# One Of Sophia Alarcon's Fav Songs 
+# About Me
+
+- my name is Gerardine Sophia Alarcon
+- i'm 15 years old
+- taga kuha ng susi ng chabanel
 ----------
+### One of my fav songs
 **Anymore** by Somi
 
 
@@ -66,3 +71,17 @@ Do I ever cross your mind
 Anymore
 
 ```
+--------
+## My schedule
+|time| day 1 | day 2 | day 3 | day 4 | day 5 |
+|-------| ------|--------|-------|-------|----|
+|7:35-8:00| HR| HR | HR | HR |HR|
+|8:10-9:00|SCI|SCI|COMP|SCI|ENG|
+|9:10-10:00|SCI|ENG|PE|SCI|ENG|
+|10:10-11:00|COMP|COMP|SCI|COMP|STUDY PEROID|
+|11:10-12:00    |LUNCH |LUNCH|LUNCH|LUNCH|LUNCH|
+|12:10-1:00| ENG|PE|SCI|MUSIC|MUSIC|
+|1:10-2:00| ENG| PE| ENG|STUDY PERIOD|MUSIC|
+|2:10-3:00|NONE|NONE|NONE| ENG|STUDY PERIOD|
+
+
