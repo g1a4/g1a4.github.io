@@ -2,9 +2,7 @@
 
 - my name is Gerardine Sophia Alarcon
 - i'm 15 years old
-- taga kuha ng susi ng chabanel
 
-----------
 ## One of my fav songs
 **Anymore** by Somi
 
