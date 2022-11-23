@@ -73,7 +73,7 @@ Anymore
 ```
 --------
 
-## My schedule:
+## My schedule
 
 |time| day 1 | day 2 | day 3 | day 4 | day 5 |
 |-------| ------|--------|-------|-------|----|
@@ -86,8 +86,6 @@ Anymore
 |1:10-2:00| ENG| PE| ENG|STUDY PERIOD|MUSIC|
 |2:10-3:00|NONE|NONE|NONE| ENG|STUDY PERIOD|
 
-**sir oks toh sa preview pero dto hindi nagana**
-
-[sked](https://docs.google.com/spreadsheets/d/1HCXcuReat707dlaU07xv1c1yN0ij9kzr/edit#gid=206683341)
+[shedule](https://docs.google.com/spreadsheets/d/1HCXcuReat707dlaU07xv1c1yN0ij9kzr/edit#gid=206683341)
 
 
