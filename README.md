@@ -86,6 +86,6 @@ Anymore
 
 **sir oks toh sa preview pero dto hindi nagana**
 
-[skede](https://docs.google.com/spreadsheets/d/1HCXcuReat707dlaU07xv1c1yN0ij9kzr/edit#gid=206683341)
+[sked](https://docs.google.com/spreadsheets/d/1HCXcuReat707dlaU07xv1c1yN0ij9kzr/edit#gid=206683341)
 
 
