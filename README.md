@@ -72,7 +72,9 @@ Anymore
 
 ```
 --------
+
 ## My schedule
+
 |time| day 1 | day 2 | day 3 | day 4 | day 5 |
 |-------| ------|--------|-------|-------|----|
 |7:35-8:00| HR| HR | HR | HR |HR|
